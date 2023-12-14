@@ -31,3 +31,6 @@ Fully connected layer (512 units, sigmoid activation)
 Dropout layer (0.2 dropout rate)
 Output layer (classification task)
 Use a batch size of 32, Adam optimizer, and an appropriate loss function for both networks. Train each network for 5 epochs.
+
+References used for this question:
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
